@@ -1,0 +1,9 @@
+[user]
+	name = Mohammad Mahdi Baghbani Pourvahid
+	email = mahdi-baghbani@azadehafzar.io
+	signingkey = BB33D84762D7A0D7
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = master
+
